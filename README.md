@@ -5,4 +5,4 @@ An online available image compression algorithm has been implemented in Java and
 
 Deployed it using *AWS Elastic Beanstalk service*. 
 
-Technologies: AWS Lambda, ELastic Beanstalk, Spring Framework, Java, Front-end(HTML,CSS,JS)
+Technologies: AWS Lambda, S3, ELastic Beanstalk, Spring Framework, Java, Front-end(HTML,CSS,JS)
